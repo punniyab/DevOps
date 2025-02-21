@@ -1,2 +1,3 @@
 This is my Thired file C
 Changes updated
+this is for squash merger
