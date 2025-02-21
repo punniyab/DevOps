@@ -1,2 +1,3 @@
 This is my second file B
 Updated file B to test 
+updated the txt file
